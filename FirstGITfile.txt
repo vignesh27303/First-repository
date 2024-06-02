@@ -1,0 +1,3 @@
+This is my first GIT file.
+Need to learn GIT today itself completely
+also git hub needs to be learned
